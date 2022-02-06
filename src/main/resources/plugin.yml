@@ -1,0 +1,4 @@
+name: NoDamageTickLogin
+version: '${project.version}'
+main: com.semivanilla.nodamageticklogin.NoDamageTickLogin
+api-version: 1.13
